@@ -28,12 +28,11 @@
                 </div>
             </div>
         </form>
-
-        <footer>
-            <p>Todos os direitos reservados &copy; <?php echo date("Y"); ?></p>
-
-        </footer>
     </main>
+    <footer class="container-fluid bg-dark text-light text-center mt-5 pt-2 pb-2 fixed-bottom">
+        <p>Todos os direitos reservados &copy; <?php echo date("Y"); ?></p>
+
+    </footer>
 </body>
 
 </html>
